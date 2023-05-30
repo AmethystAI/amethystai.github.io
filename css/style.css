@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Rubik");
+
+* {
+    font-family: 'Rubik';
+}
+
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.coming-soon {
+    display: flex;
+    height: 100vh;
+    background-color: #222;
+    align-items: center;
+    justify-content: center;
+}
+
+.cs-container {
+    color: white;
+    text-align: center;
+}
+
+.cs-container h1 {
+    font-size: 65px;
+}
+
+.cs-container h2 {
+    font-size: 30px;
+}
